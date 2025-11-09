@@ -105,7 +105,7 @@ export default function MessageScreen() {
                       semua mimpi yang kamu doakan. Gapai semua mimpimu dengan
                       hati yang berani dan penuh cinta. Hari ini aku berdoa
                       kepada Pemilik langit dan bumi, semoga setiap hal baik
-                      selalu menemukanmu, dan semoga kebahagiaan tak selalu
+                      selalu menemukanmu, dan semoga kebahagiaan selalu
                       menemani langkahmu.
                     </p>
                     <p className="text-pink-600 font-medium"></p>

@@ -42,7 +42,7 @@ export default function CakeScreen({ onNext, onDecorate, onLightCandle }) {
   };
 
   return (
-    <div className="px-4 md:px-6 py-10 text-center relative">
+    <div className="px-4 md:px-6 py-10 mt-10 text-center relative">
       {lit && (
         <motion.div
           className="fixed top-50 lg:top-60 left-0 w-full text-center text-[40px] md:text-6xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-violet-400 via-fuchsia-400 to-pink-400 drop-shadow leading-tight px-4"
