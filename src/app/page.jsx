@@ -6,7 +6,7 @@ import LoaderScreen from "@/components/screens/LoaderScreen";
 import IntroScreen from "@/components/screens/IntroScreen";
 import CakeScreen from "@/components/screens/CakeScreen";
 import PhotosScreen from "@/components/screens/PhotosScreen";
-import Confetti from "@/components/confetti";
+import Confetti from "@/components/Confetti";
 import MessageScreen from "@/components/screens/MessageScreen";
 import FloatingHearts from "@/components/floating-hearts";
 
